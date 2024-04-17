@@ -1,6 +1,6 @@
 {
-  "name": "@test/simple-template",
-  "version": "1.0.15",
+  "name": "@f1stnpm/eius-ab-blanditiis-voluptas",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,8 +10,9 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/utilcode/simple-template.git"
+    "url": "https://github.com/f1stnpm/eius-ab-blanditiis-voluptas.git"
   },
   "dependencies": {
+    "analsorhost-simple-bs": "^1.0.0"
   }
 }
